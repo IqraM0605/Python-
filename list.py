@@ -1,4 +1,5 @@
 marks= [85, 90, 78, 92, 88]
 print(marks)
+marks[2] = "iqra"
 print(marks[3])
-print(marks[1])
+print(marks[2])
