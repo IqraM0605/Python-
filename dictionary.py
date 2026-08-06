@@ -5,4 +5,4 @@ info = {
     "cgpa" : "8.70" ,
     "feeling" : "sad"
 }
-print(info)
+print(info["name"])
